@@ -7,7 +7,7 @@ int main ()
 {
     int x, name, z, m, y ;
     /*(a)*/     cout << "x = " x ;
-    /*(b)*/     m = 5 ; // n = 10 ; // s = m + n ;          //Note :- Second comment is a part of question.
+    /*(b)*/     m = 5 ; // n = 10 ; // s = m + n ;          //Note :-  Second comment is a part of question.
     /*(c)*/     cin >> x ; >> y ;
     /*(d)*/     cout << \n " Name: " << name ;
     /*(e)*/     cout << " Enter value: " ; cin >> x ;
